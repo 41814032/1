@@ -1,0 +1,40 @@
+{
+    "labs": [
+        {
+            "Quantitative1-history of Security Investment.ipynb": "Quantitative1-history of Security Investment.ipynb"
+        },
+        {
+            "Quantitative2-Securities investment theory.ipynb": "Quantitative2-Securities investment theory"
+        }, 
+        {
+            "Quantitative3-The market mechanism.ipynb": "Quantitative3-The market mechanism"
+        }, 
+        {
+            "Quantitative4-platform and tools.ipynb": "Quantitative4-platform and tools"
+        }, 
+        {
+            "Quantitative5-Financial data.ipynb": "Quantitative5-Financial data"
+        }, 
+        {
+            "Quantitative6-strategy design.ipynb": "Quantitative6-strategy design"
+        }, 
+        {
+            "Quantitative7-Strategy types.ipynb": "Quantitative7-Strategy types"
+        }, 
+        {
+            "Quantitative8-Multifactor strategy.ipynb": "Quantitative8-Multifactor strategy"
+        }, 
+        {
+            "Quantitative9-The CTA strategies.ipynb": "Quantitative9-The CTA strategies"
+        }, 
+        {
+            "Quantitative10-High frequency strategy.ipynb": "Quantitative10-High frequency strategy"
+        }, 
+        {
+            "Quantitative11-Performance evaluation with trade execution.ipynb": "Quantitative11-Performance evaluation with trade execution"
+        }, 
+        {
+            "Quantitative12-he future of Quant.ipynb": "Quantitative12-he future of Quant"
+        }
+    ]
+}
